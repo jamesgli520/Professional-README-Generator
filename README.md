@@ -20,7 +20,7 @@
   Access terminal in visual studio IDE to install node.js and npm. 
 
   ## Walk Through Video
-  <a href='https://drive.google.com/file/d/18AZtPtGD5Kw8YbeszE-4Ae-Ket8b-1mS/view'>Walk Through Video </a>
+  <a href='https://drive.google.com/file/d/1Rjy4Pjxqj7Ef20XiCHGYTpFeGoYqs6VD/view?usp=share_link'>Walk Through Video </a>
   
 
   ## Usage
